@@ -1,0 +1,30 @@
+_repo: The-Boy-Scout-Fire-Fighters_30453
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Crump, Irving
+    aliases:
+    - Crump, James Irving
+    - Crump, J. Irving (James Irving)
+    birthdate: 1887
+    deathdate: 1979
+    gutenberg_agent_id: '34618'
+    url: http://www.gutenberg.org/2009/agents/34618
+description: ''
+gutenberg_issued: '2009-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30453'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boy Scouts -- Juvenile fiction'
+- !lcsh 'Fire fighters -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Boy Scout Fire Fighters
+url: http://www.gutenberg.org/ebooks/30453
